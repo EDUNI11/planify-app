@@ -6,6 +6,7 @@ export default function App() {
   return (
     <View className="bg-black p-10 w-full flex items-center justify-center">
         <Text className="text-6xl text-white justify-center items-center">Planify</Text>
+        
         <StatusBar style="auto" />
     </View>
   );
