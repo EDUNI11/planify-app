@@ -4,9 +4,9 @@ import "./global.css"
 
 export default function App() {
   return (
-    <View className="bg-blue-700 flex items-center justify-center">
-      <Text className="text-2xl text-red-600">Planify</Text>
-      <StatusBar style="auto" />
+    <View className="bg-black p-10 w-full flex items-center justify-center">
+        <Text className="text-6xl text-white justify-center items-center">Planify</Text>
+        <StatusBar style="auto" />
     </View>
   );
 }
